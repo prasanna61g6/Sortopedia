@@ -1,6 +1,6 @@
 //Algorithm for Insertion Sort
 //----------------------------
-// Step 1: Run a loop from 1 to N - 1, using a variable i
+// Step 1: Run a loop from 1 to N , using a variable i
 // Step 2: Take two variables key, j
 //		   Set key = A[i], set j = i - 1
 //		   Run a loop as long as j >= 0 && key < A[j]
