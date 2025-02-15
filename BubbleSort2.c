@@ -1,7 +1,7 @@
 // Algorithm for Bubble Sort
 // --------------------------
 // step 1 : Run a loop using variable from 0 to n-1
-// ste 2 : Run a loop using a variable j from 0 to n-2
+// ste 2 : Run a loop using a variable j from 0 to n-i-1
 // step 3 : Compare the elements at A[j] and A[j+1]
 //          if A[j] > A[j+1], then we perform swapping
 
