@@ -1,4 +1,4 @@
-//Algorithm for Insertion Sort
+//Algorithm for Selection Sort
 //----------------------------
 // Step 1: Run a loop from 0 to N  using i variable
 // Step 2: Create an integer variable called
@@ -17,7 +17,6 @@
 #include<stdio.h>
 int selection_sort(int arr[],int n)
 {
-	int j;
 	for(int i=0;i<n-1;i++)
 	{
 		int min_index=i;
